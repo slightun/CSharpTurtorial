@@ -10,5 +10,3 @@ Resources
 
 ### Thread
 A thread is a independent stream of instructions in a program.
-
-A thread is a independent stream of instructions in a program.
