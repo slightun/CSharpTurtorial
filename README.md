@@ -7,6 +7,7 @@ Resources
 
 ###Examples
 - [ThreadStartStop](#Thread)
+- AsynchronousDelegates
 
 ### Thread
 A thread is a independent stream of instructions in a program.
