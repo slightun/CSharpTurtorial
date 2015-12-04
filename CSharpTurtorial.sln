@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadStartStop", "ThreadSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousDelegates", "AsynchronousDelegates\AsynchronousDelegates.csproj", "{F288158C-486C-4ABA-9A85-75C49B404221}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundThread", "BackgroundThread\BackgroundThread.csproj", "{33FDBD22-BDF6-424F-BA37-F1D9C249FC4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F288158C-486C-4ABA-9A85-75C49B404221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F288158C-486C-4ABA-9A85-75C49B404221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F288158C-486C-4ABA-9A85-75C49B404221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FDBD22-BDF6-424F-BA37-F1D9C249FC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FDBD22-BDF6-424F-BA37-F1D9C249FC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FDBD22-BDF6-424F-BA37-F1D9C249FC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FDBD22-BDF6-424F-BA37-F1D9C249FC4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
