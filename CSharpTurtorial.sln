@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousDelegates", "As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundThread", "BackgroundThread\BackgroundThread.csproj", "{33FDBD22-BDF6-424F-BA37-F1D9C249FC4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPools", "ThreadPools\ThreadPools.csproj", "{FB2B84B5-13A6-41A0-B1A1-B4598A8A57DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{33FDBD22-BDF6-424F-BA37-F1D9C249FC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33FDBD22-BDF6-424F-BA37-F1D9C249FC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33FDBD22-BDF6-424F-BA37-F1D9C249FC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2B84B5-13A6-41A0-B1A1-B4598A8A57DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2B84B5-13A6-41A0-B1A1-B4598A8A57DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2B84B5-13A6-41A0-B1A1-B4598A8A57DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2B84B5-13A6-41A0-B1A1-B4598A8A57DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
